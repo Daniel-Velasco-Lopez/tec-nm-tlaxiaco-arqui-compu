@@ -51,3 +51,5 @@ Repositorio Aquitectura de Computadoras 5BS
 ## Extra
 
 ## Asistencia
+
+2. Daniel Velasco López
